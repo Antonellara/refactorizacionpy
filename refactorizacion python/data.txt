@@ -1,0 +1,4 @@
+punto: 4 comentario; super didactico 
+punto: 5 comentario; purete 
+punto: 3 comentario; me gusta 
+punto: 2 comentario; me agrada 
